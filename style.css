@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  background-image: url(./images/image.jpg);
+  object-fit: cover;
+  object-position: 15% 100%;
+  
+}
+
+.div-continner {
+  color: #fffffb;
+  font-family: sans-serif;
+  margin-left: 15%;
+  margin-top: 15%;
+  font-size: x-large;
+}
+.btn-shopnow {
+  background-color: #ffcd08;
+  padding: 8px;
+  text-align: center;
+  color: white;
+  border-radius: 25px;
+  font-weight: bold;
+  width: 120px;
+}
+
+.btn-readnow {
+  background-color: white;
+  padding: 8px;
+  text-align: center;
+  color: black;
+  border-radius: 25px;
+  font-weight: bold;
+  width: 120px;
+}
+
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
